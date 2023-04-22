@@ -1,4 +1,8 @@
-1. [ ]
-2. [ ] 
-3. [ ]
-4. [ ]
+1. [x] HTML
+2. [x] CSS
+4. [x] JAVASCRIPT    
+5. [x] PYTHON
+## CSS FRAMEWORKS
+[ ] Bootstrap 
+## JAVASCRIPT FRAMEWORKS
+[ ] 
