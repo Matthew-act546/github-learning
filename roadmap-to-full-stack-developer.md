@@ -15,8 +15,8 @@
 ## DATABASES
 **Non relational Database**
 1. [ ] MongoDB
-<br> 
-**Relational Database**
+**Relational Database** 
+<br>
 1. [ ] mySQL
 
 ## ORDER TO PROGRESS
