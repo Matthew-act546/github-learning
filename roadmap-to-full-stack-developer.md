@@ -3,6 +3,6 @@
 4. [x] JAVASCRIPT    
 5. [x] PYTHON
 ## CSS FRAMEWORKS
-[ ] Bootstrap 
+[ ]Bootstrap 
 ## JAVASCRIPT FRAMEWORKS
 [ ] 
