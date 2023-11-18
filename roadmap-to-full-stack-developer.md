@@ -19,7 +19,12 @@
 **Relational Database** 
 1. [ ] mySQL
 
-## LEETCODE
+## Algorithm and Data Structure
+1. [x] 0(n)
+2. [x] time and space complexity
+3. [ ] Data structures
+
+## LEETCODE 
 1. [ ] EASY (100)
 2. [ ] MEDIUM(200)
 3. [ ] HARD(100)
