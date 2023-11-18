@@ -9,23 +9,29 @@
 ## JAVASCRIPT FRAMEWORKS
 1. [ ] NODE.JS
 2. [ ] REACT.JS
-## PYTHON FRAMEWROKS
-1. [ ] DJANGO
+## PYTHON FRAMEWORKS
+1. [x] DJANGO
 2. [ ] FLASK
 ## DATABASES
-**Non relational Database**
+**Non-relational Database**
 1. [ ] MongoDB
 ---
 **Relational Database** 
 1. [ ] mySQL
 
+## LEETCODE
+1. [ ] EASY (100)
+2. [ ] MEDIUM(200)
+3. [ ] HARD(100)
+   
+## Container
+1. [ ] Docker
+
 ## ORDER TO PROGRESS
-PRACTICE LOGICAL PROJECT TO HACKERANK PYTHON
-<br>
 WATCH YOUTUBE VIDEOS
 <br>
 CONSISTENCY
 <br>
-CREATE A WEBSITE PROJECT AS A PRACTICE IN FRONT END DEV
+CREATE A WEBSITE PROJECT AS A PRACTICE IN FRONT-END DEV AND BACKEND
 <br>
-loved the process, trust the process.
+trust the process and love the process.
